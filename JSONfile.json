@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "Name": "prasanna",
+      "Age": "25",
+      "Total Marks": "401"
+    },
+    {
+      "Name": "prabakar",
+      "Age": "23",
+      "Total Marks": "450"
+    },
+    {
+      "Name": "akilan",
+      "Age": "24",
+      "Total Marks": "437"
+    },
+    {
+      "Name": "tamil",
+      "Age": "25",
+      "Total Marks": "491"
+    },
+    {
+      "Name": "lokesh",
+      "Age": "25",
+      "Total Marks": "491"
+    },
+    {
+      "Name": "saravana",
+      "Age": "28",
+      "Total Marks": "401"
+    }
+  ]
+}
